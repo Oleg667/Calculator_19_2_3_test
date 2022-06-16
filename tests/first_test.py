@@ -1,3 +1,4 @@
+#задание 19.2.3 Гришаев 73 группа
 import pytest
 
 from app.calculator import Calculator
